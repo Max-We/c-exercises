@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "hamming.h": "c",
+        "functional": "c",
+        "saddle_points.h": "c",
+        "cstdint": "c",
+        "unity.h": "c",
+        "grade_school.h": "c",
+        "stddef.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "errno.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}
